@@ -12,7 +12,7 @@ import {
 import Products from "./pages/Products";
 import Chat from "./pages/Chat";
 import SellProduct from "./pages/SellProduct";
-import Inbox from "./pages/Inbox";
+import Inbox from "./pages/inbox";
 
 
 function Home() {

@@ -1,6 +1,6 @@
 
 
-const Message = require("../models/Message");
+const Message = require("../models/message");
 const { getAuth } = require("@clerk/express");
 
 // Send a new message
